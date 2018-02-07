@@ -1,0 +1,2 @@
+Invalid command sequence entered.
+OUTPUT:  1, 1, NORTH

@@ -1,0 +1,5 @@
+move
+right
+report
+place 1,1,north
+report
