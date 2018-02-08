@@ -8,7 +8,7 @@ namespace PacMan
 {
 
     /// <summary>
-    /// This class contains all the enums used in the appliction.
+    /// This class contains all the enums used in the application.
     /// </summary>
     public class Enumeration
     {
